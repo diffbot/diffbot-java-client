@@ -67,7 +67,7 @@ public class DiffbotHttpClient {
 
         URI uri = null;
         URIBuilder ub = new URIBuilder()
-                .setScheme("http")
+                .setScheme("https")
                 .setHost("api.diffbot.com")
                 .setPath("/v" + version + "/" + api);
 

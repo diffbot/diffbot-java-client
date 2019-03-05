@@ -97,7 +97,7 @@ This API follows the convention over configuration principle in order to allow a
 ### V-1- Understanding diffbot's RESTful API
 Diffbot offers a RESTful API for turning unstructured web pages into structured json data.
 
-This is example JSON data made by the article API at http://api.diffbot.com/v2/article :
+This is example JSON data made by the article API at https://api.diffbot.com/v2/article :
 
 ```JSON
 {
